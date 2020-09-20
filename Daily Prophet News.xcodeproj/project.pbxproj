@@ -13,6 +13,7 @@
 		244EB159250D2BC300B301B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 244EB157250D2BC300B301B8 /* Main.storyboard */; };
 		244EB15B250D2BC400B301B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 244EB15A250D2BC400B301B8 /* Assets.xcassets */; };
 		244EB15E250D2BC400B301B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 244EB15C250D2BC400B301B8 /* LaunchScreen.storyboard */; };
+		2482CEC8250D37B400DD3C19 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2482CEC7250D37B400DD3C19 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		244EB15A250D2BC400B301B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		244EB15D250D2BC400B301B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		244EB15F250D2BC400B301B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2482CEC7250D37B400DD3C19 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				244EB15A250D2BC400B301B8 /* Assets.xcassets */,
 				244EB15C250D2BC400B301B8 /* LaunchScreen.storyboard */,
 				244EB15F250D2BC400B301B8 /* Info.plist */,
+				2482CEC7250D37B400DD3C19 /* harrypotter.mp4 */,
 			);
 			path = "Daily Prophet News";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				244EB154250D2BC300B301B8 /* art.scnassets in Resources */,
 				244EB15E250D2BC400B301B8 /* LaunchScreen.storyboard in Resources */,
+				2482CEC8250D37B400DD3C19 /* harrypotter.mp4 in Resources */,
 				244EB15B250D2BC400B301B8 /* Assets.xcassets in Resources */,
 				244EB159250D2BC300B301B8 /* Main.storyboard in Resources */,
 			);
